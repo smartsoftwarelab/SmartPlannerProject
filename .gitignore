@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+.venv/
+ENV/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Environment
+.env
+.env.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Build
+build/
+dist/
+*.log
+
+# Temp
+temp/
+tmp/
+*.tmp
+
+# VAPID Keys
+private_key.pem
+public_key.pem
+vapid_keys.txt
+generate_vapid_keys.py
+*.pem
+*_key.*
