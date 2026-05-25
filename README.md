@@ -68,6 +68,15 @@ The system represents a significant advancement in intelligent personal producti
 ##Author Information
 
 Supervisor: Dr amirjalaly
+
 Student Name: Zahra Rafieipour
+
 Repository: https://github.com/smartsoftwarelab/SmartPlannerProject
 
+<br>
+
+## 📌 Project Poster
+
+<p align="center">
+  <img src="PlannerPoster.jpg" alt="Project Poster" width="750"/>
+</p>
